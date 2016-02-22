@@ -3,4 +3,8 @@
 # 2/22/15
 # hello.py
 
-print("hello")
+
+def greeting(msg):
+	print(msg)
+
+greeting("hello")
