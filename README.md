@@ -1,1 +1,1 @@
-# -cs3240-labdemo by J Nayak
+# -cs3240-labdemo by Jesse Nayak
