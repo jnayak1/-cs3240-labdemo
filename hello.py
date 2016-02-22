@@ -3,8 +3,6 @@
 # 2/22/15
 # hello.py
 
-
-def greeting(msg):
-	print(msg)
+from helper import greeting
 
 greeting("hello")
